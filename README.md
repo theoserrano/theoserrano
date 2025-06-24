@@ -2,16 +2,16 @@
 
 My name is Théo Serrano, i am a Information System student of UFRPE.
 
+<br>
 
-# My areas of interest:
+## Areas of interest:
 
-Data Base
-Artificial Inteligence
-Cloud
-Management
+- Data Base
+- Artificial Inteligence
+- Cloud Computing
+- Project Management
 
+## Contact:
 
-# Contact:
-
-Email: theorbserrano@gmail.com
-Linkedin: https://www.linkedin.com/in/th%C3%A9o-serrano-94862b371/
+- **Email:** theorbserrano@gmail.com
+- **Linkedin:** [Théo Serrano](https://www.linkedin.com/in/théo-serrano-94862b371/)
