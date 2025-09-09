@@ -8,10 +8,11 @@ Currently, I am deepening my knowledge in data analysis (Pandas, NumPy, Matplotl
 
 ## Areas of interest:
 
-- Data Base
-- Artificial Inteligence
+- Data Science
+- Machine Learning
 - Cloud Computing
 - Project Management
+- Quantum Computing
 
 ## Contact:
 
