@@ -12,7 +12,6 @@ Currently, I am deepening my knowledge in data analysis (Pandas, NumPy, Matplotl
 - Machine Learning
 - Cloud Computing
 - Project Management
-- Quantum Computing
 
 ## Contact:
 
