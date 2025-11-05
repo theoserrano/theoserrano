@@ -13,14 +13,6 @@ Essa experiência me deu a maturidade para aplicar **metodologias ágeis** e **g
 
 ---
 
-## ✨ Áreas de Interesse e Foco
-
-* 🧠 **Data Science & Machine Learning:** Construção e avaliação de modelos preditivos.
-* ☁️ **Cloud Computing:** Exploração de plataformas como AWS/Azure/GCP para *deploy* de soluções de ML.
-* 📊 **Project Management:** Aplicação de metodologias ágeis (como Scrum/Kanban com Trello) para gestão de projetos técnicos.
-
----
-
 ## 🛠️ Skills & Ferramentas
 
 | Categoria | Habilidades |
@@ -36,8 +28,8 @@ Essa experiência me deu a maturidade para aplicar **metodologias ágeis** e **g
 ## 📊 Estatísticas e Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=10&theme=nord&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats de theoserrano" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=10&theme=nord&hide_border=true" alt="Top Languages de theoserrano" />
 </p>
 
 ---
