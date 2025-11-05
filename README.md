@@ -28,8 +28,8 @@ Essa experiência me deu a maturidade para aplicar **metodologias ágeis** e **g
 ## 📊 Estatísticas e Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats de theoserrano" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=10&theme=nord&hide_border=true" alt="Top Languages de theoserrano" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats de theoserrano" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=10&theme=nord&hide_border=true&include_all_commits=true" alt="Top Languages de theoserrano" />
 </p>
 
 ---
