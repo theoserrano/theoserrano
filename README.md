@@ -1,22 +1,19 @@
-```python
-class TheoSerrano:
-    def __init__(self):
-        self.name = "Théo Serrano"
-        self.role = "Estudante de Sistemas de Informação @ UFRPE"
-        self.focus = ["Data Science", "Machine Learning"]
-        
-        # Minha Stack Principal
-        self.languages = ["Python", "TypeScript", "SQL"]
-        self.data_stack = [
-            "Pandas", "NumPy", "Scikit-Learn", 
-            "Matplotlib", "Seaborn", "Dashboards"
-        ]
+```console
+theoserrano@github:~$ whoami
+Théo Serrano
 
-    def say_hello(self):
-        print("Bem-vindo ao meu perfil! Vamos analisar alguns dados?")
+theoserrano@github:~$ role
+Estudante de Sistemas de Informação @ UFRPE
 
-me = TheoSerrano()
-me.say_hello()
+theoserrano@github:~$ status
+Sempre aprendendo...
+
+theoserrano@github:~$ stack --list
+Languages: Python, TypeScript, SQL
+Data Science: Pandas, NumPy, Scikit-Learn
+Visualization: Matplotlib, Seaborn, Dashboards
+
+theoserrano@github:~$ read_profile --explore
 ```
 
 ---
@@ -25,9 +22,9 @@ me.say_hello()
 
 ## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="Théo's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=7&theme=nord&hide_border=true" alt="Théo's Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -35,15 +32,9 @@ me.say_hello()
 
 <div align="center">
 
-## Contribution Tetris
+## Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoserrano/theoserrano/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theoserrano/theoserrano/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theoserrano/theoserrano/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theoserrano&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
