@@ -5,13 +5,14 @@ Théo Serrano
 theoserrano@github:~$ role
 Estudante de Sistemas de Informação @ UFRPE
 
-theoserrano@github:~$ status
-Sempre aprendendo...
+theoserrano@github:~$ cat languages.py
+languages = ["Python", "TypeScript", "SQL"]
 
-theoserrano@github:~$ stack --list
-Languages: Python, TypeScript, SQL
-Data Science: Pandas, NumPy, Scikit-Learn
-Visualization: Matplotlib, Seaborn, Dashboards
+theoserrano@github:~$ cat data_stack.py
+data_stack = [
+    "Pandas", "NumPy", "Scikit-Learn",
+    "Matplotlib", "Seaborn", "Dashboards"
+]
 
 theoserrano@github:~$ read_profile --explore
 ```
@@ -22,9 +23,8 @@ theoserrano@github:~$ read_profile --explore
 
 ## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -32,9 +32,9 @@ theoserrano@github:~$ read_profile --explore
 
 <div align="center">
 
-## Contribution Activity
+## Contribution Tetris
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theoserrano&theme=tokyo-night&hide_border=true&area=true)
+![snake gif](https://github.com/theoserrano/theoserrano/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
