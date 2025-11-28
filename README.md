@@ -1,49 +1,39 @@
-<pre>
-<code class="language-python">
-# Arquivo: README.md
-# Iniciando o script...
-<br>
-name = "Théo Serrano"
-role = "Estudante de Sistemas de Informação"
-focus = ["Data Science", "Machine Learning"]
-university = "UFRPE"
-languages = ["Python", "TypeScript", "SQL"]
-data_viz_stack = ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn", "Dashboards"]
+```python
+class TheoSerrano:
+    def __init__(self):
+        self.name = "Théo Serrano"
+        self.role = "Estudante de Sistemas de Informação @ UFRPE"
+        self.focus = ["Data Science", "Machine Learning"]
+        
+        # Minha Stack Principal
+        self.languages = ["Python", "TypeScript", "SQL"]
+        self.data_stack = [
+            "Pandas", "NumPy", "Scikit-Learn", 
+            "Matplotlib", "Seaborn", "Dashboards"
+        ]
 
-<br>
-if __name__ == "__main__":
-    print(f"Olá, meu nome é {name}. Bem-vindo ao meu perfil do GitHub!")
-    print(f"Sou {role} na {university}.")
-    print(f"Meus principais interesses são {', '.join(focus)}.")
-    print("Estou sempre buscando aprender e inovar.")
-</code>
-</pre>
+    def say_hello(self):
+        print("Bem-vindo ao meu perfil! Vamos analisar alguns dados? 🚀")
 
-<br>
+me = TheoSerrano()
+me.say_hello()
+<div align="center">
 
-# Olá! 👋 Eu sou Théo Serrano.
-#### Estudante de Sistemas de Informação na UFRPE | Apaixonado por Data Science e Machine Learning.
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtheoserrano%26show_icons%3Dtrue%26theme%3Dnord%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" alt="Théo's GitHub Stats"/>
 
-Estou em constante aprendizado e aprofundamento em **Análise de Dados** e **Machine Learning**, buscando aplicar o conhecimento técnico em soluções com visão estratégica.
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtheoserrano%26layout%3Dcompact%26langs_count%3D7%26theme%3Dnord%26hide_border%3Dtrue" alt="Théo's Top Languages"/> </div>
 
----
+<div align="center">
 
-## 💻 Meu Terminal Pessoal
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dtheoserrano%26theme%3Dreact%26bg_color%3D20232a%26hide_border%3Dtrue%26area%3Dtrue" width="100%" alt="Activity Graph" />
 
-```bash
-theoserrano@github:~$ whoami
-Théo Serrano
-theoserrano@github:~$ role
-Estudante de Sistemas de Informação (Data Science, Machine Learning)
-theoserrano@github:~$ status
-🚀 Sempre aprendendo e construindo...
-theoserrano@github:~$ read_profile --explore
 
----
 
-## 📬 Entre em Contato
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/62763324/167667822-4464c241-7c5e-4b47-ab17-09d5812921a9.gif" alt="Breakout Game Animation" width="100%"> </div>
 
-Interessado em colaborar ou apenas trocar uma ideia? Me encontre aqui:
+<div align="center">
 
-* 📧 **Email:** theorbserrano@gmail.com
-* 💼 **LinkedIn:** [Théo Serrano](https://www.linkedin.com/in/théo-serrano-94862b371/)
+📬 Contato
+<a href="mailto:theorbserrano@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/théo-serrano-94862b371/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/> </a>
+
+</div>
