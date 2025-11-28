@@ -1,3 +1,24 @@
+<pre>
+<code>
+# Arquivo: README.md
+# Iniciando o script...
+<br>
+name = "Théo Serrano"
+role = "Estudante de Sistemas de Informação"
+focus = ["Data Science", "Machine Learning"]
+university = "UFRPE"
+languages = ["Python", "TypeScript", "SQL"]
+data_viz_stack = ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn", "Dashboards"]
+
+<br>
+print(f"Hello World! Olá, meu nome é {name}. Vamos aprender algo novo hoje.")
+<br>
+# ... Rodando o perfil de Théo Serrano ...
+</code>
+</pre>
+
+<br>
+
 # Olá! 👋 Eu sou Théo Serrano.
 #### Estudante de Sistemas de Informação na UFRPE | Apaixonado por Data Science e Machine Learning.
 
@@ -17,19 +38,38 @@ Essa experiência me deu a maturidade para aplicar **metodologias ágeis** e **g
 
 | Categoria | Habilidades |
 | :--- | :--- |
-| **Linguagens** |<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell">|
-| **Data Science** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"> |
+| **Linguagens** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/SQL-4479A9?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"> |
+| **Data Science** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/Matplotlib-003300?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"> <img src="https://img.shields.io/badge/Seaborn-80b6a2?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"> <img src="https://img.shields.io/badge/Dashboards-005C8A?style=for-the-badge&logo=plotly&logoColor=white" alt="Dashboards"> |
 | **Versionamento & Gestão** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"> |
 | **Idioma** | <img src="https://img.shields.io/badge/Inglês-Fluente-blue?style=for-the-badge" alt="Inglês"> |
 
 
 ---
 
-## 📊 Estatísticas e Atividade no GitHub
+## 🤖 Minha Atividade no GitHub & Criatividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats de theoserrano" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=10&theme=nord&hide_border=true&include_all_commits=true" alt="Top Languages de theoserrano" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theoserrano&theme=nord&hide_border=true&area=true" alt="Gráfico de Atividade no GitHub de theoserrano" />
+  
+  <br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoserrano/theoserrano/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theoserrano/theoserrano/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/theoserrano/theoserrano/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+---
+
+## 🦖 Bored? Jogue o Dino Game!
+
+<p align="center">
+  <a href="https://chromedino.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/DinoGame/DinoGame/main/DinoGame-Icon.svg" alt="Clique para jogar o Dino Game!" width="150" />
+  </a>
+  <br>
+  **Aperte aqui para correr como o T-Rex!**
 </p>
 
 ---
