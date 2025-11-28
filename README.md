@@ -1,5 +1,3 @@
-<div align="center">
-
 ```python
 # theoserrano@github:~$ whoami
 name = "Théo Serrano"
@@ -14,8 +12,6 @@ data_stack = [
     "Matplotlib", "Seaborn", "Dashboards"
 ]
 ```
-
-</div>
 
 ---
 
@@ -38,9 +34,8 @@ data_stack = [
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -50,6 +45,6 @@ data_stack = [
 
 ## Contribution Activity
 
-![snake gif](https://github.com/theoserrano/theoserrano/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/theoserrano/theoserrano/blob/output/github-contribution-grid-snake.svg)
 
 </div>
