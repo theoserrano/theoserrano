@@ -1,40 +1,21 @@
-```console
-theoserrano@github:~$ whoami
-Théo Serrano
+<div align="center">
 
-theoserrano@github:~$ role
-Estudante de Sistemas de Informação @ UFRPE
+```python
+# theoserrano@github:~$ whoami
+name = "Théo Serrano"
+role = "Estudante de Sistemas de Informação @ UFRPE"
 
-theoserrano@github:~$ cat languages.py
+# theoserrano@github:~$ cat languages.py
 languages = ["Python", "TypeScript", "SQL"]
 
-theoserrano@github:~$ cat data_stack.py
+# theoserrano@github:~$ cat data_stack.py
 data_stack = [
     "Pandas", "NumPy", "Scikit-Learn",
     "Matplotlib", "Seaborn", "Dashboards"
 ]
-
-theoserrano@github:~$ read_profile --explore
 ```
 
----
-
-<div align="center">
-
-## GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-
 </div>
-
----
-
-<div align="center">
-
-## Contribution Tetris
-
-![snake gif](https://github.com/theoserrano/theoserrano/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -48,5 +29,27 @@ theoserrano@github:~$ read_profile --explore
 <a href="https://www.linkedin.com/in/théo-serrano-94862b371/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theoserrano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+## Contribution Activity
+
+![snake gif](https://github.com/theoserrano/theoserrano/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
