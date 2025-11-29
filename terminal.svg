@@ -1,0 +1,53 @@
+<svg width="700" height="280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .terminal-bg { fill: #1a1b26; }
+      .terminal-text { fill: #a9b1d6; font-family: 'Courier New', monospace; font-size: 14px; }
+      .terminal-prompt { fill: #7dcfff; }
+      .terminal-comment { fill: #565f89; }
+      .terminal-string { fill: #9ece6a; }
+      .terminal-bracket { fill: #bb9af7; }
+      .terminal-keyword { fill: #f7768e; }
+    </style>
+  </defs>
+  
+  <rect class="terminal-bg" width="700" height="280" rx="10"/>
+  
+  <text class="terminal-prompt" x="20" y="35">theoserrano@github:~$</text>
+  <text class="terminal-text" x="210" y="35">whoami</text>
+  <text class="terminal-text" x="20" y="55">Théo Serrano</text>
+  
+  <text class="terminal-prompt" x="20" y="85">theoserrano@github:~$</text>
+  <text class="terminal-text" x="210" y="85">role</text>
+  <text class="terminal-text" x="20" y="105">Estudante de Sistemas de Informação @ UFRPE</text>
+  
+  <text class="terminal-prompt" x="20" y="135">theoserrano@github:~$</text>
+  <text class="terminal-text" x="210" y="135">cat languages.py</text>
+  <text class="terminal-keyword" x="20" y="155">languages</text>
+  <text class="terminal-text" x="110" y="155">=</text>
+  <text class="terminal-bracket" x="125" y="155">[</text>
+  <text class="terminal-string" x="135" y="155">"Python"</text>
+  <text class="terminal-text" x="210" y="155">,</text>
+  <text class="terminal-string" x="225" y="155">"TypeScript"</text>
+  <text class="terminal-text" x="330" y="155">,</text>
+  <text class="terminal-string" x="345" y="155">"SQL"</text>
+  <text class="terminal-bracket" x="395" y="155">]</text>
+  
+  <text class="terminal-prompt" x="20" y="185">theoserrano@github:~$</text>
+  <text class="terminal-text" x="210" y="185">cat data_stack.py</text>
+  <text class="terminal-keyword" x="20" y="205">data_stack</text>
+  <text class="terminal-text" x="110" y="205">=</text>
+  <text class="terminal-bracket" x="125" y="205">[</text>
+  <text class="terminal-string" x="40" y="225">"Pandas"</text>
+  <text class="terminal-text" x="115" y="225">,</text>
+  <text class="terminal-string" x="130" y="225">"NumPy"</text>
+  <text class="terminal-text" x="195" y="225">,</text>
+  <text class="terminal-string" x="210" y="225">"Scikit-Learn"</text>
+  <text class="terminal-text" x="320" y="225">,</text>
+  <text class="terminal-string" x="40" y="245">"Matplotlib"</text>
+  <text class="terminal-text" x="140" y="245">,</text>
+  <text class="terminal-string" x="155" y="245">"Seaborn"</text>
+  <text class="terminal-text" x="230" y="245">,</text>
+  <text class="terminal-string" x="245" y="245">"Dashboards"</text>
+  <text class="terminal-bracket" x="40" y="265">]</text>
+</svg>
