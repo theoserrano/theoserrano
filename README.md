@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Théo%20Serrano%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:1a1b26,100:2563eb&fontColor=ffffff&fontSize=40&desc=Estudante%20de%20Sistemas%20de%20Informação%20@%20UFRPE&descAlignY=55&descAlign=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Théo%20Serrano&fontAlign=50&fontAlignY=35&color=0:001f3f,100:00CED1&fontColor=ffffff&fontSize=40&desc=Estudante%20de%20Sistemas%20de%20Informação%20@%20UFRPE&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 <div align="center">
   
