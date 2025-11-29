@@ -46,6 +46,8 @@
   <text class="terminal-text" x="320" y="225">,</text>
   <text class="terminal-string" x="335" y="225">"Git"</text>
   <text class="terminal-text" x="375" y="225">,</text>
+  <text class="terminal-string" x="390" y="225">"Figma"</text>
+  <text class="terminal-text" x="445" y="225">,</text>
   <text class="terminal-string" x="40" y="245">"Matplotlib"</text>
   <text class="terminal-text" x="140" y="245">,</text>
   <text class="terminal-string" x="155" y="245">"Seaborn"</text>
@@ -53,5 +55,7 @@
   <text class="terminal-string" x="245" y="245">"Dashboards"</text>
   <text class="terminal-text" x="340" y="245">,</text>
   <text class="terminal-string" x="355" y="245">"Trello"</text>
+  <text class="terminal-text" x="410" y="245">,</text>
+  <text class="terminal-string" x="425" y="245">"VSCode"</text>
   <text class="terminal-bracket" x="40" y="265">]</text>
 </svg>
