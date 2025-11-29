@@ -15,16 +15,6 @@
 
 <div align="center">
 
-## Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoserrano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## Contribution Activity
 
 ![snake gif](https://github.com/theoserrano/theoserrano/blob/output/github-contribution-grid-snake.svg)

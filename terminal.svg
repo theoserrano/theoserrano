@@ -34,20 +34,24 @@
   <text class="terminal-bracket" x="395" y="155">]</text>
   
   <text class="terminal-prompt" x="20" y="185">theoserrano@github:~$</text>
-  <text class="terminal-text" x="210" y="185">cat data_stack.py</text>
-  <text class="terminal-keyword" x="20" y="205">data_stack</text>
-  <text class="terminal-text" x="110" y="205">=</text>
-  <text class="terminal-bracket" x="125" y="205">[</text>
+  <text class="terminal-text" x="210" y="185">cat tools.py</text>
+  <text class="terminal-keyword" x="20" y="205">tools</text>
+  <text class="terminal-text" x="80" y="205">=</text>
+  <text class="terminal-bracket" x="95" y="205">[</text>
   <text class="terminal-string" x="40" y="225">"Pandas"</text>
   <text class="terminal-text" x="115" y="225">,</text>
   <text class="terminal-string" x="130" y="225">"NumPy"</text>
   <text class="terminal-text" x="195" y="225">,</text>
   <text class="terminal-string" x="210" y="225">"Scikit-Learn"</text>
   <text class="terminal-text" x="320" y="225">,</text>
+  <text class="terminal-string" x="335" y="225">"Git"</text>
+  <text class="terminal-text" x="375" y="225">,</text>
   <text class="terminal-string" x="40" y="245">"Matplotlib"</text>
   <text class="terminal-text" x="140" y="245">,</text>
   <text class="terminal-string" x="155" y="245">"Seaborn"</text>
   <text class="terminal-text" x="230" y="245">,</text>
   <text class="terminal-string" x="245" y="245">"Dashboards"</text>
+  <text class="terminal-text" x="340" y="245">,</text>
+  <text class="terminal-string" x="355" y="245">"Trello"</text>
   <text class="terminal-bracket" x="40" y="265">]</text>
 </svg>
