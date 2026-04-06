@@ -15,4 +15,4 @@
 
 ## Contribution Activity
 
-![snake gif](https://github.com/theoserrano/theoserrano/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/theoserrano/theoserrano/output/github-contribution-grid-snake.svg)
